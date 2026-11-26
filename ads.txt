@@ -1,0 +1,5 @@
+# ads.txt — WonBack (https://rh9ak9dnj-svg.github.io/)
+# No authorised seller is declared yet: the AdSense application is still pending.
+# When AdSense approves this site (AdSense > Account > Account information),
+# uncomment the line below and replace pub-XXXXXXXXXXXXXXXX with the publisher ID:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

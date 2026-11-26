@@ -1,0 +1,12 @@
+# WonBack — robots.txt
+User-agent: *
+Allow: /
+
+# Ad crawlers need to reach the pages that carry ads
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+Sitemap: https://rh9ak9dnj-svg.github.io/sitemap.xml
